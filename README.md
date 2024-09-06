@@ -25,20 +25,10 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,react,python,java,swift,figma,nodejs,ts&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,react,python,replit,unity,godot,unreal,swift,ts,figma,nodejs,java&perline=8" />
   </a>
 </p>
 
-
-<!--Game Engines-->
-<h2 align="left"><b>Game Engines</b></h2>
-
-<!--engine icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,godot,unreal&perline=6" />
-  </a>
-</p>
 
 <!--Socials-->
 <h2 align="left"><b>Socials</b></h2>
