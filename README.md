@@ -5,7 +5,7 @@
 
 <!--my bio information-->
 <br/>
-
+<p><b>What I'm up to:</b></p>
 - 🚀 Working on [Morpheus](https://morpheusgames.vercel.app), your AI game dev copilot 
 
 - 🌱 Learning ML from the ground up
@@ -15,9 +15,7 @@
 - 💻 View my portfolio at [cadizhang.com](https://cadizhang.com)
 
 - 📩 Contact me at cadi.zhang@wustl.edu
-
 <br/>
-
 
 <!--Skills section-->
 <h2 align="left"><b>Skills</b></h2>
