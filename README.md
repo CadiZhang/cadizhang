@@ -3,7 +3,6 @@
 <p>I'm building Morpheus, a new way of developing games using multimodal agents 🤖. These days, I'm obsessed with AI and its applications in gaming infrastructure, user-generated content, and interactive video. I love video editing 🎬, photography 📸, reading 📚, drawing 🎨, and coding games 👾!</p>
 <p>Send me a message if you'd like to chat. I'm always happy to support others and hear different ideas! ✌️</p>
 
-
 <!--my bio information-->
 <br/>
 
@@ -34,8 +33,21 @@
 <!--Game Engines-->
 <h2 align="left"><b>Game Engines</b></h2>
 
-<!--tech stack icons-->
+<!--engine icons-->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,godot,unreal&perline=6" />
   </a>
+</p>
+
+<!--Socials-->
+<h2 align="left"><b>Socials</b></h2>
+
+<!--social icons-->
+<p align="left">
+  <a href="https://www.linkedin.com/in/cadizhang/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+    <a href="https://x.com/CadiZhang">
+    <img src="https://skillicons.dev/icons?i=twitter"/>
+</p>
