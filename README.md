@@ -1,6 +1,6 @@
 <!--Header and subheading-->
 <h1 align="left"><b>Hi!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"><b> My name is Cadi Zhang</b></h1>
-<p>I'm building Morpheus, a new way of developing games using multimodal agents 🤖. These days, I'm obsessed with AI and its applications in gaming infrastructure, user-generated content, and interactive video. I love video editing 🎬, photography 📸, reading 📚, drawing 🎨, and coding games 👾!</p>
+<p>I'm building Morpheus, a new way of developing games using multimodal agents 🤖. These days, I'm obsessed with AI and its applications in gaming infrastructure, user-generated content, and spatial intelligence. I love video editing 🎬, photography 📸, reading 📚, drawing 🎨, and coding games 👾!</p>
 <p>Send me a message if you'd like to chat. I'm always happy to support others and hear different ideas! ✌️</p>
 
 <!--my bio information-->
