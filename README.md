@@ -11,7 +11,7 @@
 
 - 🌱 Learning ML from the ground up
 
-- ✏️ Writing digestible articles on [AIxGames](https://cadizhang.substack.com)
+- ✏️ Writing digestible articles on [substack](https://cadizhang.substack.com)
 
 - 💻 View my portfolio at [cadizhang.com](https://cadizhang.com)
 
