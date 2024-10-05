@@ -1,6 +1,6 @@
 <!--Header and subheading-->
 <h1 align="left"><b>Hi!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"><b> My name is Cadi Zhang</b></h1>
-<p>I'm passionate about using AI to solve real-world problems, with a strong focus on optimizing performance and enhancing the UI/UX of applied AI systems. Lately, I've been obsessed with AI's applications in gaming infrastructure, robotics, and spatial intelligence. I love video editing 🎬, photography 📸, reading 📚, drawing 🎨, and coding games 👾!</p>
+<p>I'm passionate about using AI to solve real-world problems, with a strong focus on optimizing performance and enhancing the UI/UX of applied AI systems. Lately, I've been obsessed with its application in gaming infrastructure, robotics, and spatial intelligence. I love video editing 🎬, photography 📸, reading 📚, drawing 🎨, and coding games 👾!</p>
 <p>Feel free to reach out if you’d like to connect—I'm always open to new ideas and happy to offer support! ✌️</p>
 
 <!--my bio information-->
