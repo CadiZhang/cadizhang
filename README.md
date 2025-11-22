@@ -1,13 +1,11 @@
 <!--Header and subheading-->
 <h1 align="left"><b>Hi!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"><b> My name is Cadi Zhang</b></h1>
-<p>Building ML products to solve real-world problems and maximize productivity. I care deeply about optimizing performance and crafting seamless, intuitive experiences for applied AI systems. Lately, I’ve been diving into AI’s impact on 👾 gaming, 🤖 robotics, and 🌎 spatial intelligence—fields where the future moves fast.</p>
+<p>A software engineer building AI-embedded accounting solutions at Open Ledger. In many ways, It’s part of a larger personal pursuit: exploring how our financial systems can evolve to become more accessible, efficient, and human in the digital economy. Lately, I’ve been diving into AI’s impact on 🏦 finance and 👾 gaming.</p>
 <p>Feel free to reach out if you’d like to connect—I'm always open to new ideas and happy to offer support! ✌️</p>
 
 <!--my bio information-->
 <br/>
 <p><b>What I'm up to:</b></p>
-
-- 🚀 Working on [Morpheus](https://morpheusgames.vercel.app), your AI game dev copilot 
 
 - 🌱 Learning ML from the ground up
 
