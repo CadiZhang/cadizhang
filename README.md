@@ -1,13 +1,13 @@
 <!--Header and subheading-->
 <h1 align="left"><b>Hi!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"><b> My name is Cadi Zhang</b></h1>
-<p>A software engineer building AI-embedded accounting solutions at Open Ledger. In many ways, It’s part of a larger personal pursuit: exploring how our financial systems can evolve to become more accessible, efficient, and human in the digital economy. Lately, I’ve been diving into AI’s impact on 🏦 finance and 👾 gaming.</p>
+<p>Founding engineer building AI-embedded accounting solutions at Open Ledger. In many ways, It’s part of a larger personal pursuit: exploring how our financial systems can evolve to become more accessible, efficient, and human in the digital economy. Lately, I’ve been diving into AI’s impact on 🏦 finance and 👾 gaming.</p>
 <p>Feel free to reach out if you’d like to connect—I'm always open to new ideas and happy to offer support! ✌️</p>
 
 <!--my bio information-->
 <br/>
 <p><b>What I'm up to:</b></p>
 
-- 🌱 Learning ML from the ground up
+- 🌱 Learning about fintech rails
 
 - ✏️ Writing digestible articles on [substack](https://cadizhang.substack.com)
 
